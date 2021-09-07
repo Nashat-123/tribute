@@ -1,0 +1,63 @@
+.maindiv
+{
+	background-color:#FAEBD7;
+	padding:20px 60px 40px 60px;
+}
+.heading
+{
+	text-align:center;
+	padding-bottom:10px;
+}
+.subdiv1
+{
+	background-color:#F5DEB3;
+}
+.info
+{
+	padding:25px;
+	font-size:20px;
+}
+.image
+{
+	border-radius:300px;
+	display:block;
+	margin:auto;
+}
+.subdiv2
+{
+	background-color:#F5DEB3;
+	margin-top: 20px;
+	
+}
+.heading2
+{
+	margin-block-start: 0;
+	margin-block-end: 0;
+	background-color:#B22222;
+	color:white;
+	width:50%;
+	padding:3px;
+	display:block;
+	margin:auto;
+	text-align:center;
+	
+}
+.div2
+{
+	background-color: #DEB887;
+	padding:50px 300px 50px 300px;
+	
+}
+.listfont
+{
+	font-size:18px;
+	margin-top:30px;
+}
+ui li{
+	
+}
+.footer
+{
+	background-color:#F5DEB3;
+	text-align:center;
+}
